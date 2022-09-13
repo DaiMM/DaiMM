@@ -1,7 +1,7 @@
 ### Olá! Eu sou Daiane Machado
 
 - 🔭 Hoje eu trabalho como desenvolvedora
-- 🌱 Estudando React
+- 🌱 Estudando Front-end
 
 <div>
   <a href="https://github.com/DaiMM">
