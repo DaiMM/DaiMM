@@ -1,8 +1,9 @@
 
+<div align=center>
+<img alt="daiane-machado-me" src="https://user-images.githubusercontent.com/3437338/212930808-6fe843c6-d97d-4a24-b7da-709e059c48db.png"/>
 
-
-- 🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o ReactJs
-
+<br><br>
+ 🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o ReactJs
  
 ### Tecnologias
  <div style="display: inline_block">
@@ -13,14 +14,11 @@
    <img alt="daiane-machado-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
    <img alt="daiane-machado-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
    <img alt="daiane-machado-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
-   <img alt="daiane-machado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-         
-   -
+   <img alt="daiane-machado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />          
  
    <img alt="daiane-machado-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
    <img alt="daiane-machado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-   <img alt="daiane-machado-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
+   <img alt="daiane-machado-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />      
   </div>
     
  ### Sobre mim
@@ -28,3 +26,4 @@
    <a href="https://www.linkedin.com/in/daianemmachado/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </div>
+ </div>
