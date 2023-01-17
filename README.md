@@ -1,6 +1,5 @@
 ### Olá! Eu sou Daiane Machado
 
-- 🔭 Hoje eu trabalho como desenvolvedora
 - 🌱 Estudando Front-end
 
 <div>
