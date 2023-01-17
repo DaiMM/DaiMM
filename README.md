@@ -2,11 +2,6 @@
 
 - 🌱 Estudando Front-end
 
-<div>
-  <a href="https://github.com/daiane-machado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daiane-machado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiane-machado&layout=compact&langs_count=16&theme=cobalt"/>
- </div>
  
 ### Tecnologias
  <div style="display: inline_block">
