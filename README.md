@@ -1,6 +1,6 @@
 
 <div align=center>
-<img alt="daiane-machado-me" src="https://user-images.githubusercontent.com/3437338/212933990-58db123e-9422-4292-980a-2202803d6e24.gif"/>
+<img alt="daiane-machado-me" src="https://user-images.githubusercontent.com/3437338/212934632-3a23751c-651d-405c-bbbe-cbd48b736599.png"/>
 
 <br><br>
  🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o ReactJs
