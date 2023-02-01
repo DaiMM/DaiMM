@@ -3,7 +3,7 @@
 <img alt="daiane-machado-me" src="https://user-images.githubusercontent.com/3437338/212934632-3a23751c-651d-405c-bbbe-cbd48b736599.png"/>
 
 <br><br>
- 🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o ReactJs
+ 🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o Next.js
  
 ### Tecnologias
  <div style="display: inline_block">
